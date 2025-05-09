@@ -4,3 +4,4 @@ rich
 markdown-it-py
 mdurl
 pygments
+xlsxwriter
