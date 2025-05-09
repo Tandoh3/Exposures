@@ -1,5 +1,6 @@
-streamlit
 pandas
-re
-io 
 openpyxl
+rich
+markdown-it-py
+mdurl
+pygments
