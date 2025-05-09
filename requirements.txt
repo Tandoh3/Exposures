@@ -2,5 +2,4 @@ streamlit
 pandas
 re
 io 
-BytesIO
 openpyxl
